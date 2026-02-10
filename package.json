@@ -1,0 +1,8 @@
+{
+  "name": "jdy-ark-relay",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "pdf-parse": "1.1.1"
+  }
+}
